@@ -1,0 +1,151 @@
+deal_id,acquirer_name,target_name,sector,region,acquirer_type,deal_status,deal_size_musd,target_revenue_musd,target_ebitda_margin_pct,target_revenue_growth_pct,target_net_debt_ebitda,customer_concentration_top5_pct,litigation_flag,cyber_incidents_last_3y,regulatory_fines_last_3y_musd,hr_attrition_rate_pct,key_person_risk_level_1_low_3_high,cultural_distance_score_1_10,integration_complexity_score_1_10,it_integration_risk_1_10,data_privacy_risk_1_10,supply_chain_top3_spend_pct,synergy_realization_score_1_10,overall_deal_risk_score_1_10,overall_deal_risk_bucket
+DEAL_1000,Atlas Group,AgriNova Inc,FMCG,Europe,Strategic,Announced,29.82,100.11,13.4,5.8,1.8,36.9,0,0,0.0,14.1,2,3.4,7.2,10.0,5.3,36.8,5.6,3.84,Low
+DEAL_1001,BlueRiver Holdings,FinBeacon Ltd,Renewable Energy,North America,Sovereign Fund,Terminated,16.11,45.83,13.2,20.1,2.58,16.5,0,0,0.0,20.7,1,6.8,6.3,5.2,3.9,12.8,5.2,3.45,Low
+DEAL_1002,BlueRiver Ltd,Skyline Group,Media,LATAM,Private Equity,Announced,36.87,93.0,25.2,13.5,2.31,18.5,0,0,0.0,24.8,2,7.1,6.6,3.2,4.3,49.6,7.9,3.71,Low
+DEAL_1003,Summit PLC,FinBeacon Corp,Media,Europe,Strategic,Announced,26.07,45.63,18.7,-2.9,2.29,48.0,0,0,0.0,23.2,3,7.3,6.7,4.3,5.5,36.5,8.2,4.23,Low
+DEAL_1004,Summit Group,Skyline PLC,Software,North America,Strategic,Closed,30.18,63.86,18.0,7.6,0.62,20.4,0,1,0.0,16.8,3,5.0,2.7,3.1,2.5,36.5,5.7,2.37,Low
+DEAL_1005,Nimbus Group,MetaWave Inc,Software,North America,Strategic,Announced,31.12,54.36,24.1,2.1,1.51,28.9,0,0,0.0,8.2,2,9.3,7.7,5.5,3.8,44.7,4.3,3.73,Low
+DEAL_1006,Cresta Holdings,Horizon Ltd,Industrial,North America,Private Equity,Closed,28.33,22.96,9.8,13.4,0.21,32.5,0,0,0.0,21.5,3,4.3,8.1,7.4,8.1,43.5,6.2,3.84,Low
+DEAL_1007,Altair Inc,Quantum PLC,Fintech,Europe,Private Equity,Closed,41.02,30.79,12.0,2.2,3.68,41.6,0,0,6.89,17.5,3,5.9,8.4,6.7,10.0,36.4,4.0,4.89,Medium
+DEAL_1008,Vertex Group,Starlance Holdings,Software,APAC ex-India,Sovereign Fund,Pending Regulatory Approval,23.95,47.75,23.7,11.8,2.5,35.2,0,2,0.0,19.6,3,3.0,6.1,3.0,5.2,43.4,8.4,3.53,Low
+DEAL_1009,Atlas Inc,UrbanLeaf Ltd,Telecom,Europe,Private Equity,Pending Regulatory Approval,51.3,74.37,45.0,12.4,4.19,38.9,0,0,0.0,17.7,2,3.7,7.4,2.0,3.6,51.3,6.6,3.87,Low
+DEAL_1010,BlueRiver Group,TrustBank Group,Healthcare,LATAM,Strategic,Closed,11.54,34.49,21.4,1.2,0.0,12.5,0,0,0.85,23.8,1,5.5,7.2,10.0,5.0,59.8,5.7,3.65,Low
+DEAL_1011,Vertex Group,UrbanLeaf Corp,FMCG,North America,Strategic,Announced,20.16,38.0,13.6,15.6,5.56,23.1,0,0,0.0,23.3,3,5.9,7.9,6.8,6.6,19.5,6.9,4.75,Medium
+DEAL_1012,Vertex Corp,TrustBank Group,Telecom,North America,Sovereign Fund,Pending Regulatory Approval,29.87,37.58,16.3,6.0,1.77,34.2,0,1,5.56,23.2,3,6.5,2.4,2.8,3.2,52.4,9.3,3.25,Low
+DEAL_1013,Altair Corp,Skyline PLC,Software,North America,Strategic,Terminated,18.04,82.2,15.5,10.9,2.42,26.7,0,0,0.0,23.4,2,6.7,6.0,3.5,4.7,24.8,8.3,3.61,Low
+DEAL_1014,Nimbus Group,Skyline Ltd,Retail,APAC ex-India,Private Equity,Terminated,22.13,23.02,14.9,14.3,2.27,48.3,1,1,0.0,5.8,2,7.7,1.3,4.7,2.5,47.5,5.2,3.59,Low
+DEAL_1015,Nimbus Group,UrbanLeaf Group,Industrial,LATAM,Private Equity,Closed,6.6,28.15,24.1,5.7,0.0,43.4,1,0,0.0,16.8,2,5.7,4.6,3.4,7.4,24.5,6.2,3.48,Low
+DEAL_1016,Nova Group,TrustBank Ltd,Renewable Energy,Europe,Strategic,Announced,16.11,33.82,7.3,7.1,0.28,77.2,0,1,0.0,19.0,1,7.6,8.8,4.5,5.2,34.8,9.0,4.39,Low
+DEAL_1017,Altair PLC,Horizon Inc,Software,Europe,Strategic,Announced,15.26,67.05,33.3,10.9,2.87,48.7,0,0,0.0,11.9,3,3.3,1.0,4.9,3.5,48.4,5.5,3.1,Low
+DEAL_1018,Atlas Inc,TrustBank PLC,Fintech,India,Strategic,Announced,145.11,19.33,29.6,14.3,2.41,68.7,0,2,0.0,6.1,2,4.9,6.0,6.4,6.7,13.4,6.3,4.05,Low
+DEAL_1019,Altair Corp,MetaWave Group,Industrial,APAC ex-India,Strategic,Pending Regulatory Approval,23.27,187.36,15.4,6.3,1.93,23.3,0,0,0.0,31.8,1,5.1,7.0,8.2,6.2,25.7,5.2,4.09,Low
+DEAL_1020,Nova PLC,UrbanLeaf Group,Logistics,Europe,Private Equity,Announced,36.81,91.0,10.1,9.2,3.96,15.5,0,0,0.0,13.5,1,2.3,6.4,7.5,6.6,44.8,4.9,3.76,Low
+DEAL_1021,Zenith Ltd,AgriNova Holdings,Telecom,Europe,Strategic,Closed,24.48,95.17,33.3,0.6,3.39,25.5,0,1,0.0,19.9,1,4.9,6.8,5.3,5.0,39.1,5.2,3.94,Low
+DEAL_1022,Vertex PLC,Skyline Ltd,Industrial,Europe,Strategic,Terminated,16.9,38.91,10.0,10.7,0.0,26.9,0,0,0.0,13.4,2,5.1,4.8,7.2,6.7,46.6,5.2,3.15,Low
+DEAL_1023,Atlas Corp,Horizon Inc,Fintech,LATAM,Private Equity,Pending Regulatory Approval,134.79,73.17,30.6,8.3,2.76,17.1,1,1,0.0,16.1,3,7.4,1.9,3.3,1.0,29.7,6.5,3.16,Low
+DEAL_1024,Altair Holdings,Horizon Ltd,FMCG,India,Strategic,Closed,79.32,113.16,11.0,3.7,3.32,21.4,1,1,0.0,15.5,2,3.9,9.3,5.4,4.7,20.8,5.1,4.12,Low
+DEAL_1025,Cresta Inc,AgriNova Inc,Renewable Energy,APAC ex-India,Private Equity,Announced,5.27,121.3,34.0,13.3,4.79,18.3,0,1,3.8,11.4,2,8.0,7.3,4.1,4.1,30.1,5.7,4.07,Low
+DEAL_1026,Summit PLC,EcoGrid PLC,Logistics,North America,Strategic,Announced,35.75,24.16,29.2,4.9,3.46,23.0,1,0,0.0,11.4,3,3.9,6.2,5.1,5.1,17.1,7.0,3.7,Low
+DEAL_1027,BlueRiver Holdings,Horizon Inc,Healthcare,Europe,Strategic,Closed,20.32,28.11,38.6,9.4,2.62,32.2,0,0,0.0,19.1,1,4.4,9.0,1.0,6.7,53.7,2.8,3.86,Low
+DEAL_1028,Cresta Holdings,AgriNova Inc,Logistics,India,Strategic,Announced,11.28,156.24,25.5,16.6,3.61,13.3,0,0,0.81,23.7,3,2.6,5.3,8.1,2.3,44.2,7.6,3.51,Low
+DEAL_1029,Atlas Ltd,FinBeacon Holdings,Logistics,LATAM,Strategic,Announced,19.75,20.05,32.1,1.6,1.46,76.5,0,0,0.0,19.5,2,4.8,7.9,5.4,3.8,55.2,10.0,4.34,Low
+DEAL_1030,Atlas Holdings,MetaWave PLC,Renewable Energy,Europe,Strategic,Announced,39.27,20.54,22.4,21.0,3.6,19.2,1,1,0.0,11.0,3,6.3,2.3,2.7,3.3,35.4,7.4,3.36,Low
+DEAL_1031,Vertex Inc,EcoGrid Corp,Retail,LATAM,Strategic,Announced,14.76,122.09,10.9,12.4,0.14,20.8,0,0,0.0,7.4,2,4.9,9.5,4.1,8.1,45.6,5.5,3.26,Low
+DEAL_1032,BlueRiver Group,Starlance PLC,Healthcare,Europe,Strategic,Announced,39.04,100.09,11.1,9.3,4.4,42.1,0,0,1.23,15.8,2,5.3,2.1,4.9,5.2,26.2,6.2,3.73,Low
+DEAL_1033,Atlas Inc,Quantum PLC,Renewable Energy,India,Strategic,Terminated,22.02,57.84,14.3,6.4,2.17,41.1,0,0,0.0,13.4,2,7.6,6.5,7.5,4.7,51.0,5.6,4.17,Low
+DEAL_1034,BlueRiver Group,Skyline Group,Media,Europe,Strategic,Announced,65.79,154.88,19.3,8.9,2.41,50.3,0,1,0.0,16.1,3,3.4,7.6,6.1,4.6,38.7,8.2,3.96,Low
+DEAL_1035,Nimbus Holdings,FinBeacon Group,Renewable Energy,India,Strategic,Terminated,37.81,40.36,14.7,8.4,3.32,25.6,0,0,0.0,21.3,3,4.8,7.9,8.5,5.9,33.0,8.5,4.3,Low
+DEAL_1036,Nova Corp,Skyline Corp,Media,Europe,Private Equity,Terminated,38.9,182.39,16.6,4.2,0.67,28.1,0,0,0.0,17.9,2,10.0,4.9,4.4,6.6,45.2,9.8,3.69,Low
+DEAL_1037,Orion PLC,AgriNova Corp,Industrial,APAC ex-India,Private Equity,Pending Regulatory Approval,43.57,74.02,26.5,16.0,4.54,46.9,0,1,0.0,12.2,1,7.0,3.0,5.6,4.7,46.3,4.1,4.22,Low
+DEAL_1038,Nova Inc,Starlance PLC,Telecom,Europe,Strategic,Terminated,10.7,42.98,24.2,13.1,3.33,17.3,0,0,0.0,13.9,2,9.8,2.6,8.5,6.8,28.1,6.3,4.0,Low
+DEAL_1039,Cresta Holdings,Starlance Inc,Media,LATAM,Private Equity,Announced,10.41,63.2,13.5,1.3,3.82,43.3,0,0,0.0,24.3,1,4.5,3.5,8.7,4.3,51.8,7.1,4.29,Low
+DEAL_1040,Nimbus Group,FinBeacon Corp,FMCG,APAC ex-India,Sovereign Fund,Announced,33.78,145.89,30.0,11.2,0.39,26.6,0,0,0.0,17.2,2,2.1,6.7,5.3,6.3,54.1,7.0,3.09,Low
+DEAL_1041,Vertex Holdings,Horizon Group,Media,APAC ex-India,Private Equity,Closed,34.07,32.27,18.3,7.4,2.48,37.2,0,1,2.03,12.4,2,5.1,4.7,7.0,5.3,48.4,7.6,3.77,Low
+DEAL_1042,Atlas Corp,EcoGrid Group,Healthcare,Europe,Private Equity,Closed,79.83,41.42,31.9,15.5,5.92,13.0,0,0,0.59,21.5,2,1.0,5.6,3.8,3.7,13.8,7.4,3.4,Low
+DEAL_1043,Orion PLC,TrustBank Ltd,Industrial,APAC ex-India,Private Equity,Closed,18.28,55.54,30.6,14.7,6.72,23.8,0,1,0.0,11.8,2,1.6,8.5,5.2,6.0,24.2,9.5,4.28,Low
+DEAL_1044,Summit Group,Quantum Inc,FMCG,LATAM,Strategic,Announced,8.35,143.46,4.8,19.9,3.84,45.3,1,0,0.0,6.7,1,8.9,6.9,4.8,1.0,25.1,10.0,4.28,Low
+DEAL_1045,Altair Holdings,TrustBank Group,Industrial,India,Sovereign Fund,Announced,16.23,25.08,5.9,-0.8,4.29,52.5,1,0,0.0,15.7,1,3.9,3.5,6.9,4.9,21.6,4.9,4.32,Low
+DEAL_1046,Nimbus Corp,Quantum Holdings,Fintech,LATAM,Private Equity,Closed,76.03,15.48,41.5,3.8,3.16,12.6,0,1,0.0,21.8,3,2.7,6.3,6.3,9.3,34.1,6.9,3.86,Low
+DEAL_1047,Nova Holdings,EcoGrid Holdings,Software,India,Sovereign Fund,Terminated,51.19,90.33,32.5,3.1,1.98,10.0,0,0,0.0,20.1,2,3.0,5.8,7.2,6.1,29.1,3.9,3.23,Low
+DEAL_1048,Atlas Holdings,TrustBank Holdings,Retail,LATAM,Strategic,Closed,13.07,103.35,36.0,7.2,2.55,11.4,0,0,0.0,18.6,1,2.0,1.2,4.3,7.7,39.9,6.8,2.75,Low
+DEAL_1049,BlueRiver Corp,FinBeacon Inc,Media,APAC ex-India,Sovereign Fund,Announced,87.75,48.75,22.4,8.8,1.27,27.1,0,0,0.0,11.1,2,7.4,5.7,5.1,2.6,43.3,9.8,3.19,Low
+DEAL_1050,Nova Holdings,UrbanLeaf Inc,Retail,APAC ex-India,Strategic,Announced,28.66,41.39,27.2,3.0,2.7,62.7,0,0,0.0,20.2,1,8.8,8.1,3.5,5.4,48.4,7.6,4.77,Medium
+DEAL_1051,Summit Holdings,FinBeacon Ltd,FMCG,North America,Private Equity,Pending Regulatory Approval,39.52,48.85,17.0,9.3,2.39,25.0,0,0,0.0,20.9,2,3.1,9.4,4.3,5.6,59.4,5.8,3.87,Low
+DEAL_1052,Nova Inc,Horizon Group,Telecom,North America,Strategic,Announced,21.27,38.4,16.4,4.4,2.65,16.0,0,1,0.0,22.9,2,9.9,4.6,5.4,5.6,36.1,7.5,4.02,Low
+DEAL_1053,Altair Ltd,Skyline Group,Software,APAC ex-India,Sovereign Fund,Closed,12.88,31.57,15.7,14.2,3.67,60.6,1,2,0.0,9.8,2,1.9,4.6,8.4,4.6,37.9,6.3,4.39,Low
+DEAL_1054,Nimbus PLC,Starlance PLC,Healthcare,APAC ex-India,Private Equity,Announced,18.05,109.92,22.5,12.6,1.89,22.4,1,0,0.0,11.7,1,10.0,5.4,4.1,5.6,5.0,6.6,3.75,Low
+DEAL_1055,Altair Inc,TrustBank Ltd,Industrial,LATAM,Strategic,Announced,25.52,75.02,17.4,11.9,2.69,10.0,0,0,0.0,13.2,3,4.8,6.3,4.8,3.3,30.5,5.8,3.04,Low
+DEAL_1056,Cresta Group,FinBeacon Holdings,FMCG,APAC ex-India,Strategic,Closed,27.64,11.79,25.5,0.8,2.29,32.3,0,0,0.0,15.3,1,5.0,4.9,6.4,1.5,37.8,6.5,3.25,Low
+DEAL_1057,Vertex Holdings,TrustBank Group,Logistics,LATAM,Strategic,Announced,36.8,110.05,11.1,-4.8,1.98,48.9,1,1,0.0,6.8,3,4.0,10.0,4.2,6.0,39.5,8.8,4.24,Low
+DEAL_1058,Atlas Inc,Starlance Inc,Software,LATAM,Strategic,Announced,73.19,87.87,27.8,8.3,2.73,38.2,1,3,0.0,26.8,1,5.5,4.4,5.2,6.4,35.5,5.3,4.51,Medium
+DEAL_1059,Altair Ltd,Quantum Corp,Software,APAC ex-India,Private Equity,Terminated,40.31,71.77,35.3,5.1,3.9,29.3,1,1,0.0,10.7,2,1.0,7.2,5.8,3.5,30.0,6.9,3.76,Low
+DEAL_1060,Nova Inc,Starlance Ltd,Logistics,North America,Strategic,Closed,21.86,25.93,22.8,1.2,2.93,33.0,0,0,0.0,19.9,3,2.0,5.9,3.4,1.0,47.1,8.0,3.1,Low
+DEAL_1061,Vertex PLC,Starlance Inc,Logistics,APAC ex-India,Private Equity,Terminated,22.27,26.19,16.3,3.9,1.79,32.8,0,1,5.54,12.5,3,6.6,3.1,3.1,3.6,22.7,5.0,2.91,Low
+DEAL_1062,Cresta Ltd,AgriNova PLC,Telecom,Europe,Strategic,Closed,5.66,21.86,28.1,5.7,6.18,20.5,0,1,0.0,23.4,2,3.6,8.2,4.1,6.4,45.2,1.5,4.65,Medium
+DEAL_1063,Cresta PLC,FinBeacon Holdings,Logistics,North America,Strategic,Announced,42.98,135.38,23.0,2.9,5.2,43.6,1,0,0.0,9.2,2,5.9,6.3,1.6,5.1,32.8,5.7,4.39,Low
+DEAL_1064,Vertex Inc,TrustBank Group,Software,LATAM,Strategic,Closed,8.03,53.7,32.2,19.0,1.96,17.8,0,2,0.0,11.8,1,4.4,6.7,7.5,2.9,57.4,6.0,3.44,Low
+DEAL_1065,Altair Inc,EcoGrid Corp,Renewable Energy,Europe,Sovereign Fund,Announced,4.5,92.8,23.9,7.3,2.69,41.2,0,1,0.0,13.8,1,1.7,10.0,5.7,5.2,22.9,5.9,3.81,Low
+DEAL_1066,Nimbus Inc,EcoGrid Ltd,Media,North America,Strategic,Announced,33.12,82.75,19.4,6.8,1.44,50.6,1,0,0.0,17.6,2,6.5,10.0,5.5,3.0,32.3,9.0,4.42,Low
+DEAL_1067,Vertex Holdings,FinBeacon Inc,Renewable Energy,Europe,Strategic,Terminated,8.91,57.8,15.1,12.1,3.04,22.4,0,0,0.0,17.5,3,8.3,4.9,1.5,4.9,40.4,9.0,3.55,Low
+DEAL_1068,BlueRiver Holdings,AgriNova Ltd,Retail,APAC ex-India,Private Equity,Terminated,43.98,42.24,15.9,11.9,1.83,33.8,0,0,0.0,21.0,3,6.3,6.0,6.1,4.4,52.2,9.1,3.86,Low
+DEAL_1069,Cresta Group,MetaWave Ltd,Logistics,India,Private Equity,Announced,17.0,25.68,21.9,7.6,3.0,21.7,0,1,0.0,23.1,1,3.5,9.3,6.0,5.3,41.7,4.3,4.08,Low
+DEAL_1070,Atlas PLC,Horizon Inc,Telecom,North America,Strategic,Closed,56.61,27.86,14.8,12.1,1.89,42.4,0,0,0.0,31.6,2,6.8,7.3,2.8,6.2,39.1,7.7,4.22,Low
+DEAL_1071,Atlas Corp,Quantum PLC,Healthcare,APAC ex-India,Strategic,Announced,61.27,43.54,15.0,8.9,2.03,26.2,1,0,0.0,13.1,3,7.5,10.0,6.8,9.0,23.4,10.0,4.7,Medium
+DEAL_1072,Nova PLC,TrustBank Inc,Renewable Energy,North America,Strategic,Announced,6.56,45.71,5.1,13.7,4.07,11.9,0,0,6.33,18.5,1,7.9,6.7,8.1,5.0,44.6,7.7,4.36,Low
+DEAL_1073,Nova Group,MetaWave Group,Media,India,Private Equity,Closed,160.98,143.65,28.5,18.8,3.64,56.2,0,0,0.0,28.4,2,6.5,4.8,5.9,3.0,15.2,5.4,4.29,Low
+DEAL_1074,Nova Corp,UrbanLeaf Holdings,Media,LATAM,Strategic,Closed,23.9,12.06,6.4,23.9,1.62,48.4,1,0,0.0,7.8,2,4.2,4.8,7.4,4.8,55.0,6.9,3.9,Low
+DEAL_1075,Atlas Inc,Starlance Corp,Software,APAC ex-India,Private Equity,Pending Regulatory Approval,49.14,26.87,24.7,1.8,4.04,37.5,1,0,0.0,23.7,3,2.0,4.7,6.1,6.8,68.0,6.1,4.58,Medium
+DEAL_1076,Vertex Holdings,FinBeacon Ltd,Media,Europe,Strategic,Closed,44.72,61.81,24.1,11.3,3.49,41.9,0,0,0.0,14.2,1,5.2,2.1,7.1,6.2,54.3,7.3,3.93,Low
+DEAL_1077,Nimbus Group,Starlance Inc,Logistics,North America,Strategic,Terminated,44.34,125.9,16.0,10.7,2.96,21.6,0,0,0.0,11.1,1,8.7,3.8,5.0,3.9,46.7,8.9,3.55,Low
+DEAL_1078,Orion Holdings,MetaWave Inc,Industrial,Europe,Private Equity,Closed,65.17,31.1,19.1,2.3,2.74,31.1,0,0,0.0,17.7,3,1.5,3.1,1.0,2.1,35.2,6.8,2.46,Low
+DEAL_1079,Cresta Holdings,MetaWave Group,FMCG,LATAM,Strategic,Closed,17.09,36.38,14.5,15.1,3.36,24.9,1,0,1.46,20.3,1,4.1,7.4,7.4,2.4,17.0,6.2,4.03,Low
+DEAL_1080,Atlas Inc,AgriNova Group,FMCG,North America,Private Equity,Pending Regulatory Approval,67.23,63.74,9.8,-1.1,4.2,22.8,0,0,0.0,18.1,1,6.6,5.9,9.1,4.3,6.1,10.0,4.09,Low
+DEAL_1081,Atlas Corp,Skyline Corp,Fintech,North America,Private Equity,Pending Regulatory Approval,47.93,111.76,15.3,11.5,4.69,52.7,1,0,0.0,22.6,1,5.5,9.9,5.0,6.4,51.5,5.8,5.56,Medium
+DEAL_1082,Nimbus Holdings,AgriNova Corp,Industrial,North America,Private Equity,Pending Regulatory Approval,14.54,50.69,15.1,5.3,2.87,33.4,0,0,0.0,24.7,1,2.2,6.9,1.4,6.7,63.2,5.2,3.74,Low
+DEAL_1083,Nimbus Ltd,MetaWave Group,Fintech,Europe,Private Equity,Closed,31.04,70.52,15.3,-0.6,1.54,31.3,1,1,0.0,8.3,2,6.5,4.3,5.2,6.7,38.3,8.8,3.73,Low
+DEAL_1084,Cresta Ltd,Quantum Group,Renewable Energy,LATAM,Private Equity,Closed,10.93,56.78,12.1,14.3,0.03,37.2,0,0,0.0,19.1,1,7.4,3.9,3.6,6.8,30.9,5.1,3.2,Low
+DEAL_1085,Vertex Holdings,Quantum Group,Renewable Energy,APAC ex-India,Sovereign Fund,Pending Regulatory Approval,6.58,26.75,19.5,11.8,3.63,44.3,1,0,0.0,20.9,1,6.0,6.3,5.1,1.0,34.9,4.8,4.31,Low
+DEAL_1086,Atlas Group,Skyline Corp,Fintech,India,Strategic,Announced,17.86,130.51,20.6,10.8,3.47,15.6,0,0,2.3,26.9,2,7.0,3.6,9.1,2.7,44.6,5.9,3.98,Low
+DEAL_1087,Vertex Inc,Skyline Holdings,Healthcare,Europe,Strategic,Announced,37.42,28.52,24.3,10.1,2.72,45.8,1,0,0.0,16.1,1,8.9,5.1,4.8,5.0,51.5,6.2,4.59,Medium
+DEAL_1088,Altair Ltd,TrustBank PLC,Logistics,LATAM,Strategic,Closed,15.12,79.62,8.2,19.6,5.17,22.2,0,1,0.0,14.7,3,4.0,6.6,5.8,3.3,71.1,6.8,4.18,Low
+DEAL_1089,Cresta Ltd,AgriNova Holdings,Logistics,LATAM,Strategic,Closed,17.99,90.38,33.9,5.0,3.48,28.5,0,0,0.0,24.3,1,5.2,8.2,6.6,4.2,41.2,7.0,4.29,Low
+DEAL_1090,Altair PLC,Quantum Ltd,Software,Europe,Strategic,Closed,83.22,28.4,16.8,9.2,3.42,55.3,0,1,0.0,14.1,1,4.8,3.2,4.9,3.6,43.8,3.6,3.77,Low
+DEAL_1091,Altair Ltd,Starlance PLC,Healthcare,Europe,Sovereign Fund,Announced,33.9,70.49,18.2,5.2,3.28,61.3,0,0,0.0,18.0,1,8.9,3.5,6.8,6.3,28.2,5.7,4.57,Medium
+DEAL_1092,BlueRiver Corp,Skyline Inc,Telecom,APAC ex-India,Private Equity,Announced,29.55,34.65,5.5,0.9,0.36,33.6,0,1,0.0,27.7,1,1.9,6.0,3.4,3.7,45.3,6.7,2.97,Low
+DEAL_1093,Nova Corp,TrustBank Corp,Retail,India,Strategic,Closed,36.93,48.74,25.4,8.2,4.72,10.1,0,1,0.0,19.4,3,3.8,7.9,7.8,6.0,20.7,7.3,4.15,Low
+DEAL_1094,Altair Holdings,FinBeacon Inc,Industrial,APAC ex-India,Strategic,Announced,31.29,40.76,12.6,9.2,1.08,10.0,0,0,0.0,23.7,2,3.8,6.9,7.2,4.0,26.0,9.1,3.11,Low
+DEAL_1095,BlueRiver Holdings,FinBeacon Ltd,Retail,India,Strategic,Closed,42.21,23.64,0.1,7.2,2.8,24.8,0,1,2.14,16.1,1,5.6,5.2,7.6,3.8,28.1,4.8,3.63,Low
+DEAL_1096,Orion Holdings,FinBeacon Holdings,Software,India,Strategic,Closed,33.71,87.92,16.2,10.5,2.15,44.1,0,1,0.0,5.6,2,3.4,6.8,4.8,5.7,50.2,3.8,3.54,Low
+DEAL_1097,Zenith Corp,Skyline Inc,Industrial,India,Private Equity,Pending Regulatory Approval,49.92,24.35,23.5,6.6,2.01,33.1,1,0,0.0,8.0,2,6.5,5.5,4.1,3.5,38.2,5.6,3.58,Low
+DEAL_1098,Orion Inc,EcoGrid PLC,Logistics,India,Private Equity,Closed,10.23,53.71,15.9,11.3,2.65,10.1,0,0,0.0,29.9,2,5.3,9.7,6.6,5.1,19.0,6.3,4.03,Low
+DEAL_1099,Cresta Group,Starlance Group,Telecom,Europe,Strategic,Announced,14.79,111.49,26.1,-0.4,3.9,64.9,0,0,0.0,21.9,1,5.9,9.3,7.1,2.8,60.4,6.6,5.11,Medium
+DEAL_1100,Orion Holdings,EcoGrid Corp,Software,Europe,Strategic,Terminated,20.51,76.61,9.8,8.9,2.36,39.7,0,0,0.0,18.1,2,4.8,3.4,7.0,3.5,39.0,7.0,3.49,Low
+DEAL_1101,Cresta Holdings,Skyline PLC,FMCG,India,Strategic,Announced,20.82,151.87,15.6,18.7,4.0,32.8,0,0,0.0,24.1,2,7.2,5.6,4.1,4.8,46.5,3.4,4.29,Low
+DEAL_1102,Orion PLC,TrustBank Holdings,Fintech,India,Strategic,Closed,29.95,89.88,9.9,-0.7,0.0,37.9,0,0,1.28,5.0,1,7.0,6.0,6.1,3.7,61.2,4.7,3.2,Low
+DEAL_1103,Orion PLC,MetaWave Inc,FMCG,North America,Strategic,Closed,26.98,60.28,12.4,11.0,1.19,10.0,0,1,0.0,26.7,3,4.7,6.7,5.7,1.0,31.6,5.0,3.01,Low
+DEAL_1104,Vertex Inc,Starlance PLC,Media,LATAM,Private Equity,Terminated,32.92,78.58,34.5,2.2,3.26,26.7,0,0,0.0,23.2,2,1.9,6.1,3.9,2.0,31.7,5.9,3.18,Low
+DEAL_1105,Altair Ltd,FinBeacon PLC,Telecom,APAC ex-India,Private Equity,Pending Regulatory Approval,70.01,40.37,21.0,13.7,4.69,18.5,0,2,0.0,5.0,2,5.0,6.8,6.1,3.7,51.4,7.8,3.88,Low
+DEAL_1106,Atlas Inc,Horizon Holdings,Software,India,Strategic,Closed,101.5,97.04,9.2,14.0,4.34,34.1,1,1,0.0,26.6,3,3.0,5.9,8.2,3.6,34.4,6.6,4.61,Medium
+DEAL_1107,Nova PLC,MetaWave Group,Media,APAC ex-India,Private Equity,Closed,23.91,67.6,20.3,9.0,2.51,16.6,0,0,5.67,22.1,2,4.5,6.6,6.2,7.4,14.2,6.7,3.64,Low
+DEAL_1108,Altair Ltd,UrbanLeaf Inc,Logistics,Europe,Private Equity,Announced,16.36,81.55,10.7,18.5,1.06,29.8,0,0,0.0,19.0,2,7.9,4.5,1.8,2.9,57.6,4.2,3.16,Low
+DEAL_1109,Nimbus PLC,UrbanLeaf Group,Software,Europe,Private Equity,Closed,31.41,74.18,26.2,5.1,3.8,10.0,0,0,0.0,22.9,2,7.1,3.5,6.7,5.8,24.5,7.5,3.79,Low
+DEAL_1110,Cresta Ltd,TrustBank Group,Software,APAC ex-India,Strategic,Closed,16.56,21.37,25.8,11.1,2.1,34.5,0,0,0.0,18.7,3,10.0,3.6,3.1,2.2,30.6,8.5,3.44,Low
+DEAL_1111,BlueRiver Corp,MetaWave PLC,Industrial,Europe,Private Equity,Announced,25.14,28.07,4.0,-0.2,1.67,20.6,0,0,0.0,26.2,2,8.5,3.0,4.4,8.9,30.5,1.2,3.74,Low
+DEAL_1112,Zenith Holdings,UrbanLeaf Group,Healthcare,North America,Strategic,Pending Regulatory Approval,18.06,103.05,19.6,12.9,2.82,22.4,1,0,0.0,18.7,2,3.7,5.6,2.7,8.3,28.1,6.9,3.79,Low
+DEAL_1113,Summit PLC,Quantum Inc,Software,Europe,Sovereign Fund,Closed,40.54,19.23,26.9,4.2,2.39,43.2,0,2,0.0,24.3,3,3.4,6.6,5.7,6.9,33.2,6.2,4.11,Low
+DEAL_1114,Atlas Inc,FinBeacon Group,Software,North America,Private Equity,Pending Regulatory Approval,17.47,48.25,12.0,7.9,0.43,26.1,1,2,0.0,13.7,1,7.6,5.0,4.7,3.0,15.6,5.7,3.26,Low
+DEAL_1115,BlueRiver Ltd,MetaWave Group,Fintech,Europe,Private Equity,Closed,27.85,28.75,20.9,18.1,2.44,24.7,1,0,0.0,28.8,1,3.1,3.7,4.4,5.8,5.0,6.8,3.5,Low
+DEAL_1116,Altair Group,UrbanLeaf Corp,FMCG,Europe,Strategic,Closed,11.85,164.94,22.7,4.2,3.06,23.9,0,2,0.0,18.7,3,9.3,6.8,5.3,4.7,37.6,5.3,4.27,Low
+DEAL_1117,Nova Group,TrustBank PLC,Telecom,APAC ex-India,Strategic,Closed,18.53,62.06,24.6,18.4,5.45,58.8,1,0,0.0,5.0,3,7.1,10.0,10.0,7.5,42.9,8.9,6.0,Medium
+DEAL_1118,Orion Group,EcoGrid Inc,Software,APAC ex-India,Strategic,Closed,78.49,53.59,10.7,3.4,1.67,38.4,0,0,0.0,31.6,3,1.5,4.9,8.6,3.7,40.7,6.8,3.62,Low
+DEAL_1119,Cresta Holdings,EcoGrid Ltd,FMCG,APAC ex-India,Strategic,Pending Regulatory Approval,5.52,80.6,24.1,5.1,1.03,57.8,1,0,0.0,31.4,1,7.2,8.3,5.9,1.6,19.1,5.7,4.5,Medium
+DEAL_1120,Nova Holdings,Horizon Corp,Telecom,India,Strategic,Announced,73.35,112.74,31.6,2.4,3.36,67.4,0,1,0.0,21.3,2,9.9,8.8,4.8,3.1,28.4,8.0,5.03,Medium
+DEAL_1121,Summit Ltd,AgriNova Holdings,Industrial,Europe,Sovereign Fund,Announced,17.85,28.3,20.4,8.7,3.28,10.0,0,1,0.0,22.0,1,6.7,4.1,9.3,6.4,31.5,8.5,4.02,Low
+DEAL_1122,Orion PLC,Skyline Ltd,Telecom,Europe,Private Equity,Pending Regulatory Approval,11.31,42.53,21.3,2.8,2.55,35.0,0,1,0.0,18.3,1,4.4,6.1,7.9,3.0,59.9,7.7,3.93,Low
+DEAL_1123,Nova Corp,TrustBank Ltd,FMCG,LATAM,Strategic,Pending Regulatory Approval,26.15,135.62,22.8,9.4,2.3,15.8,0,3,0.0,5.0,1,2.8,6.3,4.8,1.5,31.5,4.0,2.66,Low
+DEAL_1124,Summit PLC,UrbanLeaf Inc,Software,India,Strategic,Closed,38.75,38.47,26.3,-0.1,0.0,19.2,1,0,0.0,20.9,1,4.5,6.4,6.5,3.5,35.5,2.0,3.29,Low
+DEAL_1125,Zenith Corp,Quantum Ltd,Renewable Energy,North America,Sovereign Fund,Terminated,15.48,35.44,11.9,18.3,2.7,34.6,0,1,0.0,24.4,3,4.6,9.2,4.7,9.2,64.3,4.9,4.7,Medium
+DEAL_1126,Cresta Corp,EcoGrid Inc,Retail,APAC ex-India,Strategic,Closed,14.94,46.02,12.9,14.4,1.9,38.4,0,0,0.0,9.8,3,1.0,6.5,4.7,1.0,35.3,7.1,2.69,Low
+DEAL_1127,Altair Inc,UrbanLeaf Group,Healthcare,India,Private Equity,Terminated,7.93,99.63,26.7,2.3,1.57,43.5,0,0,0.0,28.4,3,4.4,5.6,2.5,1.0,25.6,6.1,3.15,Low
+DEAL_1128,Cresta PLC,Skyline Group,Fintech,LATAM,Private Equity,Closed,47.68,80.84,24.9,2.6,4.4,34.9,1,1,0.0,11.2,1,2.6,5.7,5.4,5.4,45.1,4.5,4.2,Low
+DEAL_1129,Summit Group,EcoGrid PLC,Fintech,Europe,Strategic,Closed,13.9,72.54,15.9,14.1,0.0,37.0,0,0,0.0,5.0,3,3.5,1.0,4.7,2.4,10.5,4.3,1.77,Low
+DEAL_1130,Summit Inc,TrustBank Corp,Logistics,APAC ex-India,Strategic,Closed,26.49,29.17,4.1,8.5,2.48,24.4,0,1,0.0,12.8,1,4.1,7.7,6.2,3.6,40.3,4.8,3.53,Low
+DEAL_1131,BlueRiver Group,FinBeacon PLC,FMCG,Europe,Strategic,Pending Regulatory Approval,26.5,52.83,14.3,2.8,2.62,36.0,0,2,0.0,28.8,2,7.8,5.8,5.6,1.2,27.0,7.5,4.01,Low
+DEAL_1132,Orion Holdings,Horizon Group,FMCG,Europe,Private Equity,Closed,134.36,35.44,18.2,5.9,2.22,18.2,1,0,0.0,9.2,2,6.9,5.3,4.9,3.2,40.1,3.6,3.5,Low
+DEAL_1133,Altair Group,UrbanLeaf Holdings,Retail,North America,Strategic,Announced,80.28,28.72,33.3,1.3,2.87,65.6,1,0,0.0,12.6,1,5.0,2.7,7.8,4.2,46.6,7.3,4.35,Low
+DEAL_1134,Cresta PLC,EcoGrid Holdings,Software,LATAM,Private Equity,Pending Regulatory Approval,14.68,32.18,12.3,16.1,4.61,26.8,0,1,1.89,22.5,1,8.8,4.7,4.7,5.1,15.5,5.1,4.27,Low
+DEAL_1135,Zenith PLC,FinBeacon Inc,Renewable Energy,India,Private Equity,Closed,17.98,111.83,13.7,0.9,1.01,40.4,1,0,0.0,16.7,2,4.7,2.0,6.1,6.6,20.2,9.1,3.42,Low
+DEAL_1136,Vertex Inc,EcoGrid Inc,Renewable Energy,North America,Private Equity,Closed,39.47,105.43,12.0,15.3,4.62,27.7,0,0,0.0,7.5,2,7.5,6.9,5.4,5.4,40.7,6.2,4.22,Low
+DEAL_1137,Nimbus Corp,Starlance PLC,Renewable Energy,North America,Private Equity,Pending Regulatory Approval,31.24,118.14,11.6,17.2,1.87,57.2,1,0,0.0,30.6,1,6.9,8.0,8.2,2.2,56.4,5.5,5.09,Medium
+DEAL_1138,Summit Corp,MetaWave Holdings,Logistics,LATAM,Strategic,Closed,23.07,66.88,16.5,6.0,0.85,47.5,1,0,0.0,6.2,2,10.0,4.4,5.9,5.5,71.7,5.5,4.27,Low
+DEAL_1139,Nimbus PLC,EcoGrid Holdings,Software,APAC ex-India,Strategic,Announced,13.62,81.93,18.6,4.9,3.99,24.5,0,2,0.0,14.1,1,4.4,3.7,3.8,4.8,53.0,7.1,3.57,Low
+DEAL_1140,Zenith Corp,Quantum Group,Renewable Energy,Europe,Strategic,Announced,10.83,110.71,30.3,-0.5,2.4,46.9,1,0,5.04,5.0,2,7.2,5.6,4.9,7.7,31.1,6.0,4.23,Low
+DEAL_1141,Nimbus Group,Horizon Ltd,Industrial,Europe,Private Equity,Closed,9.45,72.24,28.8,12.1,2.46,54.1,0,0,5.4,21.9,2,6.7,3.7,5.3,2.9,29.2,5.8,3.79,Low
+DEAL_1142,Vertex PLC,MetaWave Inc,Telecom,India,Strategic,Terminated,24.86,27.03,31.6,20.4,2.82,26.5,1,1,2.99,17.4,1,4.8,2.7,5.8,5.1,37.0,5.9,3.74,Low
+DEAL_1143,Nimbus Corp,Skyline Group,Telecom,India,Private Equity,Closed,12.08,96.7,32.6,12.2,2.68,44.5,0,0,0.0,15.7,2,3.1,10.0,3.3,6.5,41.4,8.6,4.03,Low
+DEAL_1144,Zenith Inc,AgriNova Holdings,Software,India,Private Equity,Closed,11.23,37.99,24.6,4.4,4.56,18.8,1,1,0.0,26.0,1,9.9,8.6,6.9,5.5,59.5,4.6,5.6,Medium
+DEAL_1145,Altair Holdings,MetaWave Corp,Logistics,India,Private Equity,Closed,21.56,49.07,22.2,13.5,0.89,32.5,1,0,0.0,18.3,2,4.7,4.9,8.9,4.6,13.9,6.2,3.62,Low
+DEAL_1146,Cresta Inc,MetaWave Inc,Software,APAC ex-India,Strategic,Announced,11.66,54.54,16.2,15.0,1.33,36.7,0,0,0.0,5.0,2,8.0,5.9,5.6,6.4,37.8,8.8,3.58,Low
+DEAL_1147,Vertex Holdings,MetaWave Corp,Media,North America,Strategic,Announced,32.27,74.47,13.5,2.3,0.0,37.3,0,0,0.0,22.3,1,9.1,8.5,1.9,6.5,30.4,4.5,3.74,Low
+DEAL_1148,Orion Corp,Skyline Group,FMCG,LATAM,Private Equity,Closed,11.93,72.81,19.6,12.9,2.09,22.5,1,0,0.0,23.5,2,3.0,4.4,1.8,5.6,37.8,8.3,3.33,Low
+DEAL_1149,Atlas Holdings,Quantum Group,Logistics,North America,Strategic,Pending Regulatory Approval,15.02,173.42,9.6,4.1,4.54,30.0,0,0,0.0,21.4,2,6.3,4.9,6.4,7.0,55.7,6.0,4.57,Medium
